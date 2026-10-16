@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "my.darkclientmod.client.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "AbstractWidgetMixin",
+    "AbstractContainerScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
